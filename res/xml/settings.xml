@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference 
+        android:layout_height="wrap_content" 
+        android:id="@+id/editTextPreference1" 
+        android:layout_width="wrap_content" 
+        android:title="@string/username" 
+        android:key="username"
+        android:summary="@string/username_hint"/>
+    
+    <EditTextPreference 
+        android:layout_height="wrap_content" 
+        android:id="@+id/editTextPreference1" 
+        android:layout_width="wrap_content" 
+        android:title="@string/password" 
+        android:inputType="textPassword"
+        android:key="password"
+        android:summary="@string/password_hint"/>
+    
+    <EditTextPreference 
+        android:layout_height="wrap_content" 
+        android:id="@+id/editTextPreference1" 
+        android:layout_width="wrap_content" 
+        android:title="@string/interval" 
+        android:key="interval"
+    	android:summary="@string/interval_hint"/>
+
+</PreferenceScreen>

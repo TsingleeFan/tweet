@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cn.iipc.id21432044.MainActivity" >
+
+	 <item
+		android:id="@+id/action_close"
+		android:orderInCategory="100"
+		android:showAsAction="always"
+		android:icon="@android:drawable/ic_menu_close_clear_cancel"
+		android:title="@string/menu_close_clear_cancel"
+	/>
+</menu>

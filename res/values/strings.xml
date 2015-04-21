@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">樊庆立Tweet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pkgName">包名：</string>
+    <string name="textCount">140</string>
+    <string name="postButton">发布</string>
+    <string name="tweetContent"></string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="interval">刷新周期</string>
+    <string name="username_hint">输入并保存您的用户名</string>
+    <string name="password_hint">输入用户密码</string>
+    <string name="interval_hint">微博刷新周期（秒）</string>
+    <string name="startService">启动服务</string>
+    <string name="stopService">停止服务</string>
+    <string name="actionSetting">选项设置</string>
+    <string name="title_activity_main">樊庆立</string>
+    <string name="tweet">发布Tweet</string>
+    <string name="menu_close_clear_cancel">返回</string>
+    <string name="tweetContentHint">有什么新鲜事，告诉我们吧！</string>
+    <string name="EmptyList">没有内容</string>
+
+</resources>
